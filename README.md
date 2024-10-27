@@ -2,7 +2,7 @@
 
 ## Images
 
-![Pipeline Architecture](./Structure.drawio.png)
+![Pipeline Architecture](./Project_Structure.png)
 
 This project demonstrates the implementation of a parallel processing ETL (Extract, Transform, Load) pipeline using **Apache Airflow**. The pipeline is designed to efficiently extract data from multiple sources, transform it as needed, and load it into a target data store.
 
